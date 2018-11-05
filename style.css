@@ -1,0 +1,32 @@
+    h1{
+        color:blue;
+        font-size: 2.5em
+    }
+    h3{
+        color:black;
+        font-size: 12px;
+        text-align: center
+    }
+    .col-4{
+        text-align: center
+    }
+    .testa{
+        color:#3e6db9
+    }
+    .dog{
+        height: 100%;
+        weight: 100%;
+    }
+    #heading001{
+        color:yellow
+    }
+    body{
+        background-color: wheat
+    }
+
+    @media only screen and (max-width:800px) {
+        body {background-color:yellow;
+    }    .dog{
+        height: 10%;
+        weight: 10%;
+    }}
